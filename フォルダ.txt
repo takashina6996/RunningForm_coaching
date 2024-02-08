@@ -1,0 +1,14 @@
+
+server
+
+client 
+ -data_loading(データセットの生成)
+ 
+ -centraize（モデルの学習）
+ 
+search optimal（最適なフォームを見つける処理）
+ -grid_search（フォームを探索する繰り返し処理）
+ -pseudo_convex(凸性のチェック)
+
+
+
