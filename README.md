@@ -13,12 +13,12 @@ python-version 3.11.3
 
 server.pyを実装
 
-追加で2つ以上のターミナルを開き、client.pyを実装
+②追加で2つ以上のターミナルを開き、client.pyを実装
 
-①連合学習を活用しないモデルの実装
+連合学習を活用しないモデルの実装
 
 centralized.pyを実装
 
 ③タイムが最短となる入力値をグリッドサーチで探索
 
-search_optimal_form.pyを実装
+①もしくは②を行った後に、search_optimal_form.pyを実装
